@@ -1,2 +1,2 @@
 # Bitcamp-24
-UMD dining hall menu recommender 
+UMD dining hall diet plan generator
